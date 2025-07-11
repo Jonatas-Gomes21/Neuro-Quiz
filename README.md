@@ -22,7 +22,7 @@ Criar uma aplicação web intuitiva, dinâmica e acessível, onde o usuário res
 
 
 ## 🧠 Descubra seu temperamento
-https://teste-de-temperamento-tawny.vercel.app/
+https://quizneuro.netlify.app
 
 
 
